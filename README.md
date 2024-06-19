@@ -18,7 +18,7 @@ Aplikasi ini merupakan aplikasi yang berjalan pada desktop.aplikasi ini membantu
 4. jalankan project di netbeans
 # Cara penggunaan
 ## Login 
-pada bagian ini pengguna bisa memasukkan username 'admin dan password 'admin'
+pada bagian ini pengguna bisa memasukkan username 'chritstian' dan password 'aseng123'
 (ss tampilan login)
 ## beranda
 pada halaman ini user bisa melakukan navigasi hal apa yang ingin dilakukan pada aplikasi seperti input data barang,data lokasi,dan lain lain
