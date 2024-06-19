@@ -1,9 +1,9 @@
-*daftar kelompok*
-1.Tri Satria Boang Manalu (221401054) =Data lokasi,dan menu utama
-2.Lukman Nur Hakim (221401074)=Data user,data barang
-3.Adam Muhammad Firdaus (221401083)=Login,userID,popup data
-4.Fico Yanton Jeremia Sibagariang (221401098)=inventaris masuk dan inventaris keluar
-5.Christian Nathaniel (221401136)=GUI, Database, koneksi,laporan
+# daftar kelompok
+1. Tri Satria Boang Manalu (221401054) =Data lokasi,dan menu utama
+2. Lukman Nur Hakim (221401074)=Data user,data barang
+3. Adam Muhammad Firdaus (221401083)=Login,userID,popup data
+4. Fico Yanton Jeremia Sibagariang (221401098)=inventaris masuk dan inventaris keluar
+5. Christian Nathaniel (221401136)=GUI, Database, koneksi,laporan
 
 link yt
 
