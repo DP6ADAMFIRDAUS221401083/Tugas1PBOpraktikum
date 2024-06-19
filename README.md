@@ -12,10 +12,10 @@ Aplikasi ini merupakan aplikasi yang berjalan pada desktop.aplikasi ini membantu
 - bahasa pemrograman:java
 - tools&library: netbeans,java development kit,java connector mysql,Mysql,Java Swing,XAMPP,itextpdf
 # petunjuk instalasi aplikasi
-1.copy link github pada bagian code
-2.masuk ke git command lalu clone repositori berdasar link tadi
-3.import file sql dan masukkan pada database
-4.jalankan project di netbeans
+1. copy link github pada bagian code
+2. masuk ke git command lalu clone repositori berdasar link tadi
+3. import file sql dan masukkan pada database
+4. jalankan project di netbeans
 # Cara penggunaan
 ## Login 
 pada bagian ini pengguna bisa memasukkan username 'admin dan password 'admin'
